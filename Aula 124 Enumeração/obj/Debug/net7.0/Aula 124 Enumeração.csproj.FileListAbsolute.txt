@@ -1,0 +1,15 @@
+C:\Users\samue\OneDrive\Documentos\Visual Studio 2022\Aula 124 Enumeração\Aula 124 Enumeração\bin\Debug\net7.0\Aula 124 Enumeração.exe
+C:\Users\samue\OneDrive\Documentos\Visual Studio 2022\Aula 124 Enumeração\Aula 124 Enumeração\bin\Debug\net7.0\Aula 124 Enumeração.deps.json
+C:\Users\samue\OneDrive\Documentos\Visual Studio 2022\Aula 124 Enumeração\Aula 124 Enumeração\bin\Debug\net7.0\Aula 124 Enumeração.runtimeconfig.json
+C:\Users\samue\OneDrive\Documentos\Visual Studio 2022\Aula 124 Enumeração\Aula 124 Enumeração\bin\Debug\net7.0\Aula 124 Enumeração.dll
+C:\Users\samue\OneDrive\Documentos\Visual Studio 2022\Aula 124 Enumeração\Aula 124 Enumeração\bin\Debug\net7.0\Aula 124 Enumeração.pdb
+C:\Users\samue\OneDrive\Documentos\Visual Studio 2022\Aula 124 Enumeração\Aula 124 Enumeração\obj\Debug\net7.0\Aula 124 Enumeração.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Documentos\Visual Studio 2022\Aula 124 Enumeração\Aula 124 Enumeração\obj\Debug\net7.0\Aula 124 Enumeração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\OneDrive\Documentos\Visual Studio 2022\Aula 124 Enumeração\Aula 124 Enumeração\obj\Debug\net7.0\Aula 124 Enumeração.AssemblyInfoInputs.cache
+C:\Users\samue\OneDrive\Documentos\Visual Studio 2022\Aula 124 Enumeração\Aula 124 Enumeração\obj\Debug\net7.0\Aula 124 Enumeração.AssemblyInfo.cs
+C:\Users\samue\OneDrive\Documentos\Visual Studio 2022\Aula 124 Enumeração\Aula 124 Enumeração\obj\Debug\net7.0\Aula 124 Enumeração.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Documentos\Visual Studio 2022\Aula 124 Enumeração\Aula 124 Enumeração\obj\Debug\net7.0\Aula 124 Enumeração.dll
+C:\Users\samue\OneDrive\Documentos\Visual Studio 2022\Aula 124 Enumeração\Aula 124 Enumeração\obj\Debug\net7.0\refint\Aula 124 Enumeração.dll
+C:\Users\samue\OneDrive\Documentos\Visual Studio 2022\Aula 124 Enumeração\Aula 124 Enumeração\obj\Debug\net7.0\Aula 124 Enumeração.pdb
+C:\Users\samue\OneDrive\Documentos\Visual Studio 2022\Aula 124 Enumeração\Aula 124 Enumeração\obj\Debug\net7.0\Aula 124 Enumeração.genruntimeconfig.cache
+C:\Users\samue\OneDrive\Documentos\Visual Studio 2022\Aula 124 Enumeração\Aula 124 Enumeração\obj\Debug\net7.0\ref\Aula 124 Enumeração.dll
